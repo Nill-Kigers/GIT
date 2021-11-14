@@ -1,0 +1,7 @@
+git clone https://github.com/TexasTrippin/Teplukhin185.git - склонировали реп. с удаленного на локальный
+cd /Teplukhin185/worldskills/wpf - сокращение с change directory (переместились в другую папку)
+git status - показывает какие есть файлы , красное до git add, зеленые после
+git add . - добавление файлов . нужна чтобы добавить все файлы
+git commit -m "wpf" - commit фиксация изменений , -m сокращение от message "wpf" само сообщение
+git push https://TexasTrippin:token@github.com/TexasTrippin/Teplukhin185.git
+git pull - изменение с удаленного на локальный
